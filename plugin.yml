@@ -1,0 +1,8 @@
+name: PDGHMaconha
+main: net.pdgh.maconha
+version: 1.0
+commands:
+  maconha:
+    description: Fuma uma maconha
+  crack:
+    description: Fuma um crack
